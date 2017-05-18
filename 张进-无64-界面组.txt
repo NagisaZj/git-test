@@ -1,0 +1,12 @@
+所以这个文档是用码队式之前自学的git和码队式之前自己找到的notepad写的……
+所以大概我自学能力还不错吧XD
+总之希望能够进入队式开发组学习一些高端技巧XD
+大神们请收下我的膝盖
+技术爱好和特长啥的我都已经写在报名表里啦~
+P.S. 我又想起了码队式时用了无数次的指令2333
+git log 
+git reset --hard 341413
+还有
+git add playerMain.cpp
+git commit -m"xiao xian rou xun lu gai jin"
+
